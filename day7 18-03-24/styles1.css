@@ -1,0 +1,135 @@
+body{
+    background-color: #eb8510;
+}
+a{
+    padding: 5px;
+    font-size: 30px;
+}
+.footer {
+        position: static;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:gray;
+        color: white;
+}
+#a1{
+    color: #f2380a;
+    text-align: center;
+    background-color:#a38179;
+}
+form{
+    text-align: center;
+    color: #f2380a;
+    background-color: #6b544c;
+}
+#c1{
+    color: #0dd40d;
+    background-color:#6c736c;
+    text-align: center;
+    margin-left: 50px;
+}
+#c2{
+    color: #de0b0b;
+    background-color: #3d2f2f;
+}
+::placeholder{
+    color: black;
+}
+#a2{
+    color: #2a09e3;
+    background-color: #605d75;
+    text-align: center;
+}
+#a3{
+    color: #15e80e;
+    background-color: #688267;
+    text-align: center;
+}
+#a4{
+    color: #0be37e;
+    background-color: #506159;
+    text-align: center;
+}
+table,th,td{
+    border: 2px solid #0ce8c7;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    color: #f50511;
+    background-color: #6e5456;
+    text-align: center;
+}
+td{
+    color: #07a2f5;
+    background-color:#686a6b;
+    text-align: center;
+}
+#a5{
+    color: #470bd4;
+    background-color: #726e7a;
+    text-align: center;
+}
+#a6{
+    color: #8010e3;
+    background-color: #645f69;
+    text-align: center;
+}
+#b6{
+    color: #a30dd1;
+    background-color: #716475;
+}
+#b7{
+    color: #2a09e3;
+}
+#b8{
+    color: #a502ad;
+    background-color: #a8a3a8;
+}
+#b9{
+    color: #470bd4;
+}
+#b10{
+    color: #0be37e;
+    background-color: #605d75;
+}
+#b11{
+    color: #a502ad;
+}
+#b12{
+    color: #d60f94;
+    background-color: #5c4e57;
+}
+#b13{
+    color: #2014c7;
+}
+#b14{
+    color: #f20c60;
+    background-color: #735862;
+}
+#b15{
+    color: #1ddb0f;
+}
+#b16{
+    color: #f2e307;
+    background-color: #7a7a72;
+}
+#b17{
+    color: #12b6e3;
+}
+#a7{
+    color: #4f0bb0;
+    background-color: #5b5663;
+}
+#a8{
+    color: #6e3894;
+    background-color: #bcb1c4;
+}
+#a9{
+    color: #f50515;
+    background-color: #8a7173;
+    font-size: 50px;
+}
+
